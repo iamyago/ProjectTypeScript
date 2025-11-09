@@ -1,11 +1,11 @@
-# 📌 Voll - API de Avaliações
+# Voll - API de Avaliações
 
 API desenvolvida em **Node.js + TypeScript**, responsável por gerenciar **autenticação** e **avaliações** dentro da plataforma Voll.  
 Ela permite que usuários autenticados enviem feedback/avaliações e que administradores possam gerenciar esses registros.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia | Descrição |
 |-----------|-----------|
@@ -41,7 +41,7 @@ server/
 
 ---
 
-## 🔐 Autenticação & Autorização
+## Autenticação & Autorização
 
 A API utiliza:
 
@@ -60,7 +60,7 @@ Authorization: Bearer SEU_TOKEN_AQUI
 
 ---
 
-## 📝 Rotas Principais
+## Rotas Principais
 
 ### **Autenticação**
 
@@ -93,7 +93,7 @@ curl -X POST http://localhost:3000/avaliacoes   -H "Authorization: Bearer SEU_TO
 
 ---
 
-## 🏗 Banco de Dados
+## Banco de Dados
 
 O projeto **ainda não possui** banco configurado.
 
@@ -120,7 +120,7 @@ Escolho: MongoDB
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 ### Usando Node
 
@@ -138,7 +138,7 @@ docker-compose up --build
 
 ---
 
-## 🤝 Contribuição
+## Contribuição
 
 1. Faça um fork
 2. Crie uma branch: `git checkout -b minha-modificacao`
