@@ -1,4 +1,4 @@
-# Voll - API de Avaliações
+# API de Avaliações
 
 API desenvolvida em **Node.js + TypeScript**, responsável por gerenciar **autenticação** e **avaliações** dentro da plataforma Voll.  
 Ela permite que usuários autenticados enviem feedback/avaliações e que administradores possam gerenciar esses registros.
